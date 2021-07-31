@@ -1,7 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasouko" alt="yasouko" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yasouko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasouko" height="30" width="40" /></a>
@@ -14,5 +10,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasouko&show_icons=true&locale=en&layout=compact" alt="yasouko" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasouko&show_icons=true&locale=en" alt="yasouko" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasouko&" alt="yasouko" /></p>
